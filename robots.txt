@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maningos.github.io/sitemap.html.gz
+Sitemap: https://maningos.github.io/app/sitemap.html.gz
+Sitemap: https://maningos.github.io/assets/sitemap.html.gz
+Sitemap: https://maningos.github.io/css/sitemap.html.gz
+Sitemap: https://maningos.github.io/includes/sitemap.html.gz
+Sitemap: https://maningos.github.io/item/sitemap.html.gz
+Sitemap: https://maningos.github.io/src/sitemap.html.gz
